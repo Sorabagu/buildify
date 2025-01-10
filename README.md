@@ -28,4 +28,4 @@ Buildify est un logiciel de génération de devis pour les configurations de PC.
 
 ➡️ [setup_buildify_1.0.exe](https://github.com/Sorabagu/buildify/releases/download/Setup/setup_buildify_1.0.exe)
 
-![Prévisualisation](https://github.com/user-attachments/assets/a2114b49-dc48-4d97-ac58-5fc8c7b6d4f7)
+![Prévisualisation](https://raw.githubusercontent.com/Sorabagu/buildify/refs/heads/main/screenshot.png)
